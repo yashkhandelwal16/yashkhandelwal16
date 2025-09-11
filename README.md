@@ -3,9 +3,16 @@
 <h3 align="center">I'm a Passionate Learner</h3>
 
 <br>
-<img align="right" width="550" height="300" src="https://github.com/user-attachments/assets/f46ac1e7-0894-46d0-88b9-40a95889f924"  />
+<img align="right" width="550" height="300" src="https://github.com/user-attachments/assets/998be48f-d409-49c2-a08b-386d68e0b795"  />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkhandelwal16&label=Profile%20views&color=0e75b6&style=flat" alt="yashkhandelwal16" /> </p> 
+
+
+
+
+
+
 
 - 🎓 B.Tech CSE Student at **Medicaps University**   
 

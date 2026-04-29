@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Passionate Learner</h3>
 
 <br>
-<img align="right" width="520" height="290" src="https://github.com/user-attachments/assets/998be48f-d409-49c2-a08b-386d68e0b795"  />
+<img align="right" width="505" height="290" src="https://github.com/user-attachments/assets/998be48f-d409-49c2-a08b-386d68e0b795"  />
 
 
 

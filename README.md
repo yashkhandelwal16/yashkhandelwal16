@@ -11,7 +11,7 @@
 
 <h3 align="left">About Me</h3>
 
-- 🎓 B.Tech CSE Student at **Medicaps University**   
+- 🎓 CSE Student at **Medicaps University**   
 
 - 💻 Passionate about **Python, Web Dev & AI** 
 
@@ -65,7 +65,7 @@
 </a>&nbsp;
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</a>&nbsp;<br>
+</a>&nbsp;
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </a>&nbsp;

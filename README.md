@@ -13,7 +13,7 @@
 
 - 🎓 B.Tech CSE Student at **Medicaps University**   
 
-- 💻 Passionate about **Python, Web Development & AI** 
+- 💻 Passionate about **Python, Web Dev & AI** 
 
 - 🚀 Currently learning **Data Structures and Algorithms** 
 
